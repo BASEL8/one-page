@@ -239,14 +239,14 @@ textarea {
     margin-bottom: 30px;
 }
 
-.image {
+.map {
     width: 200px;
     height: 200px;
-    background-color: red;
-    background-image: url("../img/map.png");
-    background-position: top;
-    background-size: cover;
-    min
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
 }
 
 footer {
